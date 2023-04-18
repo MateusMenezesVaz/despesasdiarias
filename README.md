@@ -4,24 +4,26 @@ O aplicativo permite adicionar despesas e seus respectivos valores, exibi-las em
 
 <h2>As principais funcionalidades implementadas são:</h2>
 
-Adicionar despesas: o usuário pode adicionar uma despesa e seu valor utilizando dois campos de entrada de texto.
-Exibir lista de despesas: a lista de despesas adicionadas é exibida em um componente ScrollView com cada item sendo composto pelo nome da despesa e seu valor.
-Remover despesas: cada item da lista de despesas possui um botão de remoção que permite ao usuário removê-lo da lista.
-Calcular o total das despesas: o valor total das despesas adicionadas é calculado e exibido na parte inferior do aplicativo.
-Salvar lista de despesas: o usuário pode salvar a lista de despesas em um campo de texto para referência posterior.
-O código utiliza os seguintes componentes do React Native:
-View: um componente para criar um recipiente com propriedades de layout.
-Image: um componente para renderizar uma imagem.
-TextInput: um componente para criar um campo de entrada de texto.
-Button: um componente para criar um botão.
-ScrollView: um componente que permite rolar o conteúdo excedente.
-FlatList: um componente para renderizar uma lista de itens com scroll, útil para listas grandes de elementos.
-TouchableOpacity: um componente que permite criar um botão com efeito de pressionar e soltar.
-Text: um componente para renderizar texto.
-StyleSheet: uma API para criar folhas de estilo para estilizar os componentes.
-useState: um hook que permite adicionar estado a um componente.
-useEffect: um hook que permite executar efeitos colaterais em componentes.
-Math: um objeto nativo JavaScript que fornece operações matemáticas.
++ Adicionar despesas: o usuário pode adicionar uma despesa e seu valor utilizando dois campos de entrada de texto.
++ Exibir lista de despesas: a lista de despesas adicionadas é exibida em um componente ScrollView com cada item sendo composto pelo nome da despesa e seu valor.
++ Remover despesas: cada item da lista de despesas possui um botão de remoção que permite ao usuário removê-lo da lista.
++ Calcular o total das despesas: o valor total das despesas adicionadas é calculado e exibido na parte inferior do aplicativo.
++ Salvar lista de despesas: o usuário pode salvar a lista de despesas em um campo de texto para referência posterior.
+
+<h2>O código utiliza os seguintes componentes do React Native:</h2>
+
++ View: um componente para criar um recipiente com propriedades de layout.
++ Image: um componente para renderizar uma imagem.
++ TextInput: um componente para criar um campo de entrada de texto.
++ Button: um componente para criar um botão.
++ ScrollView: um componente que permite rolar o conteúdo excedente.
++ FlatList: um componente para renderizar uma lista de itens com scroll, útil para listas grandes de elementos.
++ TouchableOpacity: um componente que permite criar um botão com efeito de pressionar e soltar.
++ Text: um componente para renderizar texto.
++ StyleSheet: uma API para criar folhas de estilo para estilizar os componentes.
++ useState: um hook que permite adicionar estado a um componente.
++ useEffect: um hook que permite executar efeitos colaterais em componentes.
++ Math: um objeto nativo JavaScript que fornece operações matemáticas.
 
 
 <h2>Como executar</h2>
@@ -38,7 +40,7 @@ Math: um objeto nativo JavaScript que fornece operações matemáticas.
 •	React Native
 •	Expo
 •	JavaScript
-•	
+	
 <h2>Imagem utilizadas</h2>
  
 
@@ -51,6 +53,6 @@ Math: um objeto nativo JavaScript que fornece operações matemáticas.
 
 
 
-Autor</h2>
+<h2>Autor</h2>
 Este aplicativo foi desenvolvido por Mateus Menezes com base em um projeto de avaliação no React Native.
 
