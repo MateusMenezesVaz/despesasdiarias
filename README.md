@@ -2,7 +2,7 @@
 
 O aplicativo permite adicionar despesas e seus respectivos valores, exibi-las em uma lista, calcular o total das despesas e salvá-las em uma lista final.
 
-As principais funcionalidades implementadas são:
+<h2>As principais funcionalidades implementadas são:</h2>
 
 Adicionar despesas: o usuário pode adicionar uma despesa e seu valor utilizando dois campos de entrada de texto.
 Exibir lista de despesas: a lista de despesas adicionadas é exibida em um componente ScrollView com cada item sendo composto pelo nome da despesa e seu valor.
@@ -24,7 +24,7 @@ useEffect: um hook que permite executar efeitos colaterais em componentes.
 Math: um objeto nativo JavaScript que fornece operações matemáticas.
 
 
-Como executar
+<h2>Como executar</h2>
 
 1.	Este aplicativo é uma solução simples para gerenciamento de despesas diárias e pode ser facilmente adaptado e expandido para incluir mais funcionalidades. 
 2.	Como executar o aplicativo:
@@ -34,23 +34,23 @@ Como executar
 6.	Abra o simulador de dispositivo móvel ou instale o aplicativo Expo no seu dispositivo físico e escaneie o código QR exibido no terminal ou no navegador.
 7.	Aguarde o aplicativo carregar e ser exibido no simulador ou dispositivo físico.
 
-Tecnologias utilizadas
+<h2>Tecnologias utilizadas</h2>
 •	React Native
 •	Expo
 •	JavaScript
 •	
-Imagem utilizadas
+<h2>Imagem utilizadas</h2>
  
 
 
 
 
-Telas do Aplicativo
+<h2>Telas do Aplicativo</h2>
 
  
 
 
 
-Autor
+Autor</h2>
 Este aplicativo foi desenvolvido por Mateus Menezes com base em um projeto de avaliação no React Native.
 
