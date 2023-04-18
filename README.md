@@ -48,8 +48,15 @@ O aplicativo permite adicionar despesas e seus respectivos valores, exibi-las em
 
 
 <h2>Telas do Aplicativo</h2>
-
+<div align= "center">
+<img src="https://user-images.githubusercontent.com/130371011/232894612-7b9e5d69-e682-4527-97f4-ba0609226971.jpeg"
+ width="250" height="500">
  
+ <img src="https://user-images.githubusercontent.com/130371011/232894612-7b9e5d69-e682-4527-97f4-ba0609226971.jpeg"
+ width="250" height="500">
+ </div>
+ 
+
 
 
 
