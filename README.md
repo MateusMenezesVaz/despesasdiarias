@@ -22,7 +22,6 @@ O aplicativo permite adicionar despesas e seus respectivos valores, exibi-las em
 + Text: um componente para renderizar texto.
 + StyleSheet: uma API para criar folhas de estilo para estilizar os componentes.
 + useState: um hook que permite adicionar estado a um componente.
-+ useEffect: um hook que permite executar efeitos colaterais em componentes.
 + Math: um objeto nativo JavaScript que fornece operações matemáticas.
 
 
