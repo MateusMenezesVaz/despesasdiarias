@@ -1,4 +1,5 @@
-Gestão de Despesas Diárias
+<h1>Gestão de Despesas Diárias</h1>
+
 O aplicativo permite adicionar despesas e seus respectivos valores, exibi-las em uma lista, calcular o total das despesas e salvá-las em uma lista final.
 
 As principais funcionalidades implementadas são:
