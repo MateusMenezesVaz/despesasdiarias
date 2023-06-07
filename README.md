@@ -27,13 +27,13 @@ O aplicativo permite adicionar despesas e seus respectivos valores, exibi-las em
 
 <h2>Como executar</h2>
 
-1.	Este aplicativo é uma solução simples para gerenciamento de despesas diárias e pode ser facilmente adaptado e expandido para incluir mais funcionalidades. 
-2.	Como executar o aplicativo:
-3.	Certifique-se de ter instalado o Node.js e o Expo CLI em seu sistema.
-4.	Abra o terminal no Visual Studio Code e navegue até a pasta do projeto.
-5.	Execute o comando expo start para iniciar o servidor Expo.
-6.	Abra o simulador de dispositivo móvel ou instale o aplicativo Expo no seu dispositivo físico e escaneie o código QR exibido no terminal ou no navegador.
-7.	Aguarde o aplicativo carregar e ser exibido no simulador ou dispositivo físico.
+1.Certifique-se de ter o Node.js e o Expo CLI instalados em seu sistema.
+2.Abra o terminal no Visual Studio Code e navegue até a pasta do projeto.
+3.Execute o comando "expo start" para iniciar o servidor Expo.
+4.Abra um simulador de dispositivo móvel ou instale o aplicativo Expo em seu dispositivo físico.
+5.Escaneie o código QR exibido no terminal ou navegador usando o aplicativo Expo.
+6.Aguarde o aplicativo carregar e ser exibido no simulador ou dispositivo físico.
+
 
 <h2>Tecnologias utilizadas</h2>
 •	React Native
